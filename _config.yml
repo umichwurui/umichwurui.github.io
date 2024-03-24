@@ -1,9 +1,0 @@
-theme: jekyll-theme-Slate
-description: A Personal Website about Rui Wu
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://localhost:3000" # the base hostname & protocol for your site
-
-username: Rui Wu
-user_description:Junior student majoring in Computer Science and Data Science at the University of Michiagn
-user_title: Rui Wu
-email: ruiwu@umich.edu
